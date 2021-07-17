@@ -1,0 +1,11 @@
+#Put messages here 
+#Seperate by new lines
+#Order does not matter
+#Example messages are included
+#Lines containing a # or % will be ignored
+#Messages picked at random
+#Must have at least 2 different messages
+
+dont use coinbase
+coinbase ate my son
+coinbase hates you

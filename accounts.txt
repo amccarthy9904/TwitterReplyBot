@@ -1,0 +1,9 @@
+#Put accounts here 
+#Seperate by new lines
+#Order does not matter
+#Accounts are included as an example
+#Lines containing a # or % will be ignored
+
+#Coinbase
+#CoinbaseSupport
+CoinbaseMy
